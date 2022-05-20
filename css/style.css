@@ -28,12 +28,13 @@ h1{
 .message{
     background-image: linear-gradient(rgb(229, 135, 226),rgb(142, 215, 235));
     /* max-width: 460px; */
-    padding:10px;
-    margin: 12px 12px;
+    padding: 8px 5px;
+    margin: 12px 0;
     border: 2px solid black;
     border-radius: 5px;
 
 }
+
 .left{
     float: left;
     clear: both;
