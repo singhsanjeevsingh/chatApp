@@ -70,10 +70,10 @@ h1{
     background-image: linear-gradient(rgb(80 78 78),rgb(0, 0, 0));
     font-weight: bold;
     margin: 5px 0;
-    width: 87%;
+    width: 82%;
     border: 2px solid rgb(0 0 0);
     border-radius: 20px 0 0 20px;
-    height: 60px;
+    height: 47px;
 }
 .btn{
     font-family: 'Times New Roman', Times, serif;
@@ -83,7 +83,7 @@ h1{
     cursor: pointer;
     border: 2px solid #333333;
     border-radius: 0 20px 20px 0;
-    height: 63px;
+    height: 49px;
     width: 74px;
 }
 .center{
